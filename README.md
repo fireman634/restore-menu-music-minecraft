@@ -1,2 +1,2 @@
 # restore-menu-music-minecraft
-resource pack to restore og menu music
+add the .zip file to your resource packs folder
